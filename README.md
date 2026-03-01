@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Raja%20Sethupathy%20✈️&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MCA%20Student%20|%20AI%20Enthusiast%20|%20Future%20Pilot&descSize=16&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Raja%20Sethupathy&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MCA%20Student%20|%20Generative%20AI%20|%20AI%20%26%20Software%20Development&descSize=16&descAlignY=58" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;MCA+Student+specializing+in+Generative+AI;Passionate+about+Aviation%2C+AI%2C+and+Research;Building+projects+that+connect+technology+and+purpose;Future+Commercial+Pilot+in+the+making" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub+Profile;MCA+Student+specializing+in+Generative+AI;Interested+in+AI%2C+Machine+Learning%2C+and+Data+Analysis;Building+projects+with+purpose+and+practical+value;Continuously+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 
 <br><br>
 
@@ -13,42 +13,42 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 MCA student specializing in **Generative AI**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, Deep Learning, and Data Analysis**
-- ✈️ Passionate about **Aviation, Flight Operations, and Pilot Training**
-- 🌐 Building projects in **AI, Web Development, and Aviation Informatics**
-- 📚 Exploring research in **pilot safety, flight systems, and intelligent aviation solutions**
-- 🎯 Dream: **Commercial Pilot**
+I am an MCA student specializing in **Generative AI** with a strong interest in **Artificial Intelligence, Machine Learning, Data Analysis, and Software Development**.
 
----
+I enjoy building practical projects, exploring research-oriented ideas, and improving my technical skills through continuous learning. My goal is to create solutions that are not only technically sound, but also useful, meaningful, and applicable to real-world problems.
 
-## 🚀 Current Focus
-
-- AI and ML based projects
-- Aviation-related digital platforms
-- Data analysis and explainable AI
-- Python, web development, and intelligent systems
+I am particularly interested in:
+- AI and machine learning applications
+- data-driven problem solving
+- intelligent systems and automation
+- web-based tools and software solutions
+- research and innovation in emerging technologies
 
 ---
 
-## 🌟 Interests
+## Current Focus
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analysis-10B981?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Aviation-0284C7?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-<img src="https://img.shields.io/badge/Research-334155?style=for-the-badge&logo=googlescholar&logoColor=white" />
-
-</div>
+- Building a stronger foundation in **Generative AI**, **Machine Learning**, and **Data Analysis**
+- Developing projects that combine **technical learning** with **real-world usability**
+- Improving problem-solving skills through coding, experimentation, and implementation
+- Exploring research topics that connect software, intelligence, and practical applications
 
 ---
 
-## 🛠️ Tech Stack
+## What You’ll Find Here
+
+- Academic and personal projects
+- AI and machine learning experiments
+- Python-based implementations
+- Web development work
+- Research-oriented ideas and technical exploration
+- Continuous learning through hands-on practice
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=raja-2110&theme=tokyo-night&hide_border=true&radius=16" />
@@ -90,7 +90,7 @@
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 <div align="center">
 
@@ -98,14 +98,14 @@
 <img src="https://img.shields.io/badge/Machine%20Learning-Developing-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Analysis-Improving-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Web%20Development-Building-informational?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Aviation%20Research-Exploring-0ea5e9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flight%20Operations-Interested-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem%20Solving-Strengthening-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Research-Exploring-2563eb?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -123,24 +123,24 @@
 
 ---
 
-## ✨ Quote
+## Quote
 
 <div align="center">
 
-> **Code with purpose. Learn with passion. Fly with vision.**
+> **Learning deeply, building meaningfully, and growing consistently.**
 
 </div>
 
 ---
 
-## 💬 Final Note
+## Final Note
 
 <div align="center">
 
-I’m growing as a **student, developer, researcher, and future pilot**.  
-This profile reflects my journey in **AI, innovation, aviation, and meaningful technology**.
+I use GitHub as a space to document my learning, showcase my work, and keep improving as a student and developer.  
+Every project here reflects my effort to grow in **AI, software development, and problem-solving** through consistent practice and curiosity.
 
-⭐ Thanks for visiting my profile!
+Thank you for visiting my profile.
 
 </div>
 
