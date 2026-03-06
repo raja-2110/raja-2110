@@ -51,6 +51,22 @@ I’m open to working on projects related to:
 
 ---
 
+## 🚀 Featured Projects
+
+### ✈️ Wingspan Approach
+A developing aviation platform designed to support aspiring pilots with digital tools, mock tests, and career-focused aviation resources.
+
+### 💊 Medi Minder
+A smart medicine reminder application built to help users manage prescriptions and receive timely medication alerts.
+
+### 🤖 Computer Vision Project
+An AI-based project using Python for image processing, object analysis, and intelligent detection workflows.
+
+### 🌐 Aviation Informatics
+A web-based aviation information project focused on digital aviation resources, technical learning, and domain-specific exploration.
+
+---
+
 ## 🌟 Core Interests
 
 <div align="center">
@@ -131,10 +147,10 @@ I’m open to working on projects related to:
 <a href="https://github.com/raja-2110">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/raja-sethupathy-s-1986742b8">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:rajasethupathyka@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
