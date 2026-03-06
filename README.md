@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Raja%20Sethupathy%20✈️&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MCA%20Student%20|%20AI%20Enthusiast%20|%20Future%20Pilot&descSize=16&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Raja%20Sethupathy%20✈️&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MCA%20Student%20|%20Generative%20AI%20%7C%20Developer%20%7C%20Future%20Pilot&descSize=16&descAlignY=58" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;MCA+Student+specializing+in+Generative+AI;Passionate+about+Aviation%2C+AI%2C+and+Research;Building+projects+that+connect+technology+and+purpose;Future+Commercial+Pilot+in+the+making" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;MCA+Student+specializing+in+Generative+AI;Building+AI%2C+Web%2C+and+Aviation+Tech+Projects;Passionate+about+Innovation%2C+Research%2C+and+Purposeful+Technology;Future+Commercial+Pilot+in+the+making" alt="Typing SVG" />
 
 <br><br>
 
@@ -13,27 +13,45 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎓 MCA student specializing in **Generative AI**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, Deep Learning, and Data Analysis**
+I’m **Raja Sethupathy**, an MCA student specializing in **Generative AI**, with a strong interest in building meaningful technology across **AI, machine learning, web development, data-driven systems, and aviation technology**.
+
+I enjoy creating projects that are practical, research-oriented, and purpose-driven — especially those that connect **technology with real-world impact**.
+
+- 🎓 MCA student with specialization in **Generative AI**
+- 🤖 Exploring **AI, Machine Learning, Deep Learning, and Data Analysis**
+- 🌐 Building projects in **Python, Web Development, and Intelligent Systems**
 - ✈️ Passionate about **Aviation, Flight Operations, and Pilot Training**
-- 🌐 Building projects in **AI, Web Development, and Aviation Informatics**
-- 📚 Exploring research in **pilot safety, flight systems, and intelligent aviation solutions**
-- 🎯 Dream: **Commercial Pilot**
+- 📚 Interested in research related to **pilot safety, flight systems, and aviation innovation**
+- 🎯 Long-term goal: **Become a Commercial Pilot**
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I’m Currently Working On
 
-- AI and ML based projects
-- Aviation-related digital platforms
-- Data analysis and explainable AI
-- Python, web development, and intelligent systems
+- AI and ML based project development  
+- Aviation-focused digital platforms and tools  
+- Data analysis and explainable AI solutions  
+- Python scripting, web applications, and smart systems  
+- Research ideas that combine **technology + aviation**
 
 ---
 
-## 🌟 Interests
+## 💼 Open to Collaboration
+
+I’m open to working on projects related to:
+
+- 🐍 Python automation and scripting  
+- 🤖 AI / Machine Learning mini-projects  
+- 📊 Data analysis and visualization  
+- 🌐 Front-end web development  
+- 🧠 AI chatbot integration for websites  
+- ✈️ Aviation-related digital tools and platforms  
+
+---
+
+## 🌟 Core Interests
 
 <div align="center">
 
@@ -41,7 +59,8 @@
 <img src="https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Analysis-10B981?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Aviation-0284C7?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Aviation%20Technology-0284C7?style=for-the-badge&logo=githubsponsors&logoColor=white" />
 <img src="https://img.shields.io/badge/Research-334155?style=for-the-badge&logo=googlescholar&logoColor=white" />
 
 </div>
@@ -68,11 +87,26 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-### Tools
+### Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</div>
+
+---
+
+## 📌 Focus Areas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI-Learning-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Building-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Analysis-Improving-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web%20Development-Developing-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Aviation%20Research-Exploring-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flight%20Operations-Driven-2563eb?style=for-the-badge" />
 
 </div>
 
@@ -86,21 +120,6 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=raja-2110&theme=tokyonight&hide_border=true&border_radius=15" />
-</div>
-
----
-
-## 🎯 Focus Areas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Generative%20AI-Learning-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-Developing-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Analysis-Improving-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web%20Development-Building-informational?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Aviation%20Research-Exploring-0ea5e9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flight%20Operations-Interested-2563eb?style=for-the-badge" />
-
 </div>
 
 ---
@@ -123,11 +142,11 @@
 
 ---
 
-## ✨ Quote
+## ✨ Personal Motto
 
 <div align="center">
 
-> **Code with purpose. Learn with passion. Fly with vision.**
+> **Build with purpose. Learn with passion. Fly with vision.**
 
 </div>
 
@@ -137,10 +156,10 @@
 
 <div align="center">
 
-I’m growing as a **student, developer, researcher, and future pilot**.  
-This profile reflects my journey in **AI, innovation, aviation, and meaningful technology**.
+I’m continuously growing as a **student, developer, researcher, and future pilot**.  
+This profile reflects my journey through **AI, innovation, aviation, and meaningful technology**.
 
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile.
 
 </div>
 
